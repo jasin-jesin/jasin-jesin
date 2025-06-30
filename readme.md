@@ -3,7 +3,7 @@
   🎓 Robotics & AI Undergraduate | 🤖 Embedded Systems & Intelligent Machines Builder  
 </p>
 <p align="center">
-  <a href="https://github.com/jasinjesin">GitHub</a> •
+  <a href="https://github.com/jasin-jesin">GitHub</a> •
   <a href="https://linkedin.com/in/jasinjesin">LinkedIn</a> •
   <a href="mailto:jasin@example.com">Email</a> •
   <a href="https://www.instagram.com/jasin_techy/">Instagram</a> •
