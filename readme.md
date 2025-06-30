@@ -4,8 +4,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/jasin-jesin">GitHub</a> •
-  <a href="https://linkedin.com/in/jasinjesin">LinkedIn</a> •
-  <a href="mailto:jasin@example.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jasin-jesin-8b3674214/">LinkedIn</a> •
+  <a href="mailto:jasinjesinkk@gmail.com">Email</a> •
   <a href="https://www.instagram.com/jasin_techy/">Instagram</a> •
   <a href="https://yourportfolio.link">Portfolio (Coming Soon)</a>
 </p>
@@ -58,10 +58,10 @@
 
 ### 🌐 Let's Connect!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/jasinjesin](https://www.linkedin.com/in/jasin-jesin-8b3674214/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasin-jesin-8b3674214/)
 - 📸 [Instagram](https://www.instagram.com/jasin_techy/)
 - 🧠 [Portfolio](https://yourportfolio.link) _(coming soon)_
-- 📧 jasin@example.com
+- 📧 jasinjesinkk@gmail.com
 
 ---
 
