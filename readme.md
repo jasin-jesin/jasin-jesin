@@ -6,6 +6,7 @@
   <a href="https://github.com/jasinjesin">GitHub</a> •
   <a href="https://linkedin.com/in/jasinjesin">LinkedIn</a> •
   <a href="mailto:jasin@example.com">Email</a> •
+  <a href="https://www.instagram.com/jasin_techy/">Instagram</a> •
   <a href="https://yourportfolio.link">Portfolio (Coming Soon)</a>
 </p>
 
@@ -57,11 +58,11 @@
 
 ### 🌐 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/jasinjesin)
+- 💼 [LinkedIn]([https://linkedin.com/in/jasinjesin](https://www.linkedin.com/in/jasin-jesin-8b3674214/))
+- 📸 [Instagram](https://www.instagram.com/jasin_techy/)
 - 🧠 [Portfolio](https://yourportfolio.link) _(coming soon)_
 - 📧 jasin@example.com
 
 ---
 
 > _“Robots are not just machines—they are the extension of our intelligence and empathy into the physical world.”_
-
