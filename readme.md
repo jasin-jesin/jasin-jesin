@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/jasin-jesin-8b3674214/">LinkedIn</a> •
   <a href="mailto:jasinjesinkk@gmail.com">Email</a> •
   <a href="https://www.instagram.com/jasin_techy/">Instagram</a> •
-  <a href="https://yourportfolio.link">Portfolio (Coming Soon)</a>
+  <a href="https:jasinjesin.com">Portfolio</a>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jasin-jesin-8b3674214/)
 - 📸 [Instagram](https://www.instagram.com/jasin_techy/)
-- 🧠 [Portfolio](https://yourportfolio.link) _(coming soon)_
+- 🧠 [Portfolio](https://jasinjesin.com)
 - 📧 jasinjesinkk@gmail.com
 
 ---
