@@ -27,10 +27,17 @@
 
 ### 🚀 Current Projects
 
-- 🤖 **Robot Byte** – 20-DOF wheeled cognitive humanoid robot (Final Year Project)
-- 🐾 **SkyPaw** – Quadruped walking robot with autonomous behaviours
-- 🎙️ **ESP32-S3 Offline Voice Recognition** – Wake-word + command detection, no internet required
-- ☀️ **Sun Tracker** – 2-axis solar tracking system with LDR sensing
+| Project | What it is |
+|---|---|
+| 🕷️ [Quadruped Spider Robot](https://github.com/jasin-jesin/quadruped-spider-robot) | 12-DOF walking robot · ESP32-S3 · smart bus servos · custom power PCB |
+| ✏️ [CoreXY Pen Plotter](https://github.com/jasin-jesin/corexy-pen-plotter) | Fast drawing machine · TMC2209 · custom PCB · FluidNC |
+| 🏁 [Fast Line Follower](https://github.com/jasin-jesin/fast-line-follower) | Pico 2W · TB6612FNG · 8-ch IR array · custom PCB |
+| 🦾 [SO-ARM101 Controller](https://github.com/jasin-jesin/so-arm101-controller) | 6-DOF arm with a click-and-drag desktop controller |
+| 🎙️ [Jarvis Offline Assistant](https://github.com/jasin-jesin/jarvis-offline-assistant) | Whisper + Llama 3.1 + Piper, fully offline |
+| 🚗 [Autonomous Mobile Robot](https://github.com/jasin-jesin/autonomous-mobile-robot) | Differential drive · ROS 2 · SLAM |
+| ⚡ [TechieDo IDE](https://github.com/jasin-jesin/TechieDo-IDE) | Desktop IDE for Arduino/ESP: blocks, C++ and ML |
+| 🐾 [SkyPaw](https://github.com/jasin-jesin/skypaw) | Group-project quadruped with autonomous behaviours |
+| 🤖 **Robot Byte** | 20-DOF wheeled cognitive humanoid (Final Year Project, details coming soon) |
 
 ---
 
@@ -43,18 +50,21 @@
 `TensorFlow` `Scikit-learn` `Pandas` `OpenCV` `Firebase ML`
 
 #### 🔌 Embedded Systems
-`ESP32` `Arduino` `Teensy` `Raspberry Pi` `PlatformIO` `ESP-IDF`
+`ESP32` `STM32` `Arduino` `Teensy` `Raspberry Pi` `PlatformIO` `ESP-IDF`
+
+#### 🤖 Robotics
+`ROS 2` `NVIDIA Jetson` `Smart bus servos` `Stepper / TMC2209` `3D printing`
 
 #### 🛠️ Tools & Design
-`EasyEDA` `KiCad` `Fusion 360` `VS Code` `Git/GitHub`
+`EasyEDA` `JLCPCB` `KiCad` `Fusion 360` `VS Code` `Git/GitHub`
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasinjesin&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasinjesin&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasin-jesin&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasin-jesin&theme=tokyonight"/>
 </p>
 
 ---
