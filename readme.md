@@ -37,7 +37,7 @@
 | 🦾 | [**SO-ARM101 Controller**](https://github.com/jasin-jesin/so-arm101-controller) | 6-DOF arm with a click-and-drag desktop controller over the servo bus |
 | 🎙️ | [**Jarvis Offline Assistant**](https://github.com/jasin-jesin/jarvis-offline-assistant) | Wake word → Whisper → Llama 3.1 → Piper, with nothing leaving the device |
 | 🚗 | [**Autonomous Mobile Robot**](https://github.com/jasin-jesin/autonomous-mobile-robot) | Differential-drive base heading for ROS 2 SLAM and navigation |
-| ⚡ | [**TechieDo IDE**](https://github.com/jasin-jesin/TechieDo-IDE) | Desktop IDE for Arduino/ESP boards — blocks, C++ and on-desktop ML in one app |
+| ⚡ | [**BlockSpark**](https://github.com/jasin-jesin/BlockSpark) | Kids' coding app: blocks → Arduino C++, live sensor visualiser and ML studio · [Windows download](https://github.com/jasin-jesin/BlockSpark/releases/latest) |
 | 🐾 | [**SkyPaw**](https://github.com/jasin-jesin/skypaw) | University group project: autonomous quadruped built over 6 Scrum sprints |
 | 🤖 | **Robot Byte** | Final-year project: a 20-DOF wheeled cognitive humanoid — details coming soon |
 
