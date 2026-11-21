@@ -21,7 +21,6 @@
 
 - 🔧 **8+ years** building electronics — from schematic and PCB to firmware and a working robot
 - 🧑‍🏫 Taught **500+ students** across **50+ workshops**, including IEEE student-branch guest lectures on PCB design
-- 🤖 Founder of **TheRobotics.ai**, a robotics education brand
 - 🎯 Interested in legged robots, embodied AI and running intelligence fully on-device
 - 📬 Open to robotics roles and research collaborations
 
